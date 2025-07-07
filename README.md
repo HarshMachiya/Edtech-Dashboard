@@ -45,4 +45,4 @@ Visual Storytelling
 
 Educational Data Analysis
 
-Dashboard preview ("https://github.com/HarshMachiya/Edtech-Dashboard/blob/main/Screenshot%202025-07-07%20180305.png")
+Dashboard preview (https://github.com/HarshMachiya/Edtech-Dashboard/blob/main/Screenshot%202025-07-07%20180305.png)
